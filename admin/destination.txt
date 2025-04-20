@@ -1,0 +1,22 @@
+# Format: id:pays:ville:images:type_activites:activite_jeune:budget_moyen
+
+1:Espagne:Barcelone:img/barcelone.jpg:fête:Séjour fêtard à prix abordable:40.00
+2:France:Paris:img/paris.jpg:culture:Séjour pour jeunes avec visites et soirées:50.00
+3:Turquie:Istanbul:img/istanbul.jpg:culture:Voyage culturel abordable pour jeunes:35.00
+4:Maroc:Merzouga:merzouga.jpg:aventure:Aventure dans le désert pour jeunes:30.00
+5:Portugal:Lisbonne:img/lisbonne.jpg:plage:Séjour plage pas cher pour jeunes:45.00
+6:Maroc:Marrakech:img/marrakech.jpg:culture:Séjour à petit budget pour jeunes:25.00
+7:Islande:Reykjavik:img/islande.jpg:aventure:Aventure en Islande à prix jeune:60.00
+8:Royaume-Uni:Londres:img/londres.jpg:culture:Voyage culturel pour jeunes à petit prix:55.00
+9:Portugal:Algarve:img/portugal.jpg:plage:Spot de surf pas cher:40.00
+10:Royaume-Uni:Édimbourg:img/ecosse.jpg:randonnée:RoadTrip nature:50.00
+11:Sénégal:Dakar:img/senegal.jpg:plage:Voyage solidaire:30.00
+12:Allemagne:Berlin:img/berlin.jpg:fête:Capital festive Europe:45.00
+13:Bulgarie:Bansko:img/bulgarie.jpg:ski:Ski pas cher:35.00
+14:Croatie:Split:img/plongee.jpg:plage:Spot plongée économique:40.00
+15:Irlande:Dublin:img/irlande.jpg:randonnée:Nature sauvage:50.00
+16:Grèce:Crète:img/yoga.jpg:plage:Retraite zen:40.00
+17:Pays-Bas:Amsterdam:img/amsterdam.jpg:fête:Week-end festif:60.00
+18:Belgique:Boom:img/tomorrowland.jpg:fête:Festival international:70.00
+19:Monténégro:Kotor:img/balkans.jpg:randonnée:Découverte Balkans:30.00
+20:Suisse:Chamonix:img/ski.jpg:ski:Ski pas cher en bus:45.00
